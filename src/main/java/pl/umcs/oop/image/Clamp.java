@@ -1,4 +1,4 @@
-package pl.umcs.oop.imageweb;
+package pl.umcs.oop.image;
 
 public class Clamp {
     static <T extends Comparable<T>> T clamp(T value, T min, T max) {
